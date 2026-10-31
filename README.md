@@ -1,8 +1,8 @@
-# Move your team off ChatGPT Work to Kortix, the open-source AI Operating System
+# Move your team off ChatGPT Work to Kortix, the open-source CompanyOS
 
 A team leaves ChatGPT Work by rebuilding its agents, skills, memory, and connectors as files in a git repo, and Kortix is open source, so the whole system stays yours after the switch. The move runs in order: what ChatGPT Work is, whether to switch, the steps to take, the side-by-side comparison, and the governance you set on the other side.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. It is the leading open-source alternative to Claude Cowork and ChatGPT Work. The source is on [Kortix on GitHub](https://github.com/kortix-ai/suna), and the project carries 20,000+ GitHub stars.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. It is the leading open-source alternative to Claude Cowork and ChatGPT Work. The source is on [Kortix on GitHub](https://github.com/kortix-ai/suna), and the project carries 20,000+ GitHub stars.
 
 ## Who this is for
 
