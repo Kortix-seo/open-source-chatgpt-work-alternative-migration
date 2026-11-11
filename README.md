@@ -38,7 +38,7 @@ After the switch, the agents, skills, memory, and connectors are files a person 
 - [ChatGPT Work vs Kortix](docs/chatgpt-work-vs-kortix.md): the source-cited comparison across eight rows.
 - [Governance after migration](docs/governance-after-migration.md): per-tool policies, approval gates, the audit trail, and where the rules live.
 
-The campaign site carries the shorter versions: [migrating from ChatGPT Work](https://chatgptworkalternative.com/migrate-from-chatgpt-work) and the [governance and permissions](https://chatgptworkalternative.com/governance-and-permissions) pages.
+The campaign site carries the shorter versions: [migrating from ChatGPT Work](https://chatgptworkalternative.com/migrate-from-chatgpt-work) and the [governance and permissions](https://chatgptworkalternative.com/governance-and-permissions) pages. The questions that surface in the first week of the move are answered in [the switching FAQ](https://chatgptworkalternative.com/faq). If the system under review is not OpenAI's, [ChatGPT Work vs Claude Cowork](https://chatgptworkalternative.com/chatgpt-work-vs-claude-cowork) and [ChatGPT Work vs Gemini](https://chatgptworkalternative.com/chatgpt-work-vs-gemini) settle which closed mode a team is leaving, and [ChatGPT workspace agents](https://chatgptworkalternative.com/chatgpt-workspace-agents) shows what a shared agent's schedule and approvals become as files.
 
 ## Sources
 
